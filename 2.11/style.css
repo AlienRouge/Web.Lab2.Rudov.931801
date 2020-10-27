@@ -1,0 +1,11 @@
+body {
+  border: green solid 2px;
+}
+div {
+  background-color: aqua;
+  height: 250px;
+}
+img {
+  float: right;
+  height: 250px;
+}

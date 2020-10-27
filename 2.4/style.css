@@ -1,0 +1,8 @@
+main {
+  background-color: blue;
+  color: white;
+  max-width: 600px;
+  margin: auto;
+  border: solid;
+  border-color: white;
+}

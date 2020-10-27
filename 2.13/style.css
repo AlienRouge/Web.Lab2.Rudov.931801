@@ -1,0 +1,36 @@
+body {
+  border: green solid 2px;
+}
+main {
+  background-color: aqua;
+}
+.top {
+  background-color: #ffe4c4;
+  width: 500px;
+  float: left;
+}
+.content {
+  margin-left: 500px;
+  background-color: darkgrey;
+}
+.content img {
+  float: right;
+  width: 50%;
+}
+.content p {
+  margin: 0;
+}
+.content #clear {
+  clear: right;
+}
+@media (max-width: 1000px) {
+  .content {
+    margin-left: 150px;
+  }
+  .top {
+    width: 150px;
+  }
+  .content img {
+    width: 220px;
+  }
+}

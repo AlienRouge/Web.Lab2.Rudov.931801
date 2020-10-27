@@ -1,0 +1,48 @@
+.first {
+  width: 150px;
+  height: 100px;
+  background-color: blueviolet;
+  color: white;
+}
+.second {
+  width: 150px;
+  height: 100px;
+  background-color: darkred;
+  color: white;
+  position: relative;
+}
+.third {
+  width: 150px;
+  height: 100px;
+  background-color: #cd853f;
+  color: white;
+  position: relative;
+  left: 30px;
+  bottom: 30px;
+}
+.fourth {
+  width: 550px;
+  height: 400px;
+  background-color: #cd5c5c;
+  color: white;
+  position: relative;
+  z-index: 100;
+}
+.fifth {
+  width: 300px;
+  height: 200px;
+  background-color: #4b0082;
+  color: white;
+  position: absolute;
+  right: 0%;
+  top: 25%;
+}
+.sixth {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  color: white;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+}

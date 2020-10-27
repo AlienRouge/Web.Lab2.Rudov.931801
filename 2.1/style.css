@@ -1,0 +1,31 @@
+main,
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+header {
+  height: 2.7em;
+  background-color: #eaeaea;
+  font-weight: bold;
+  font-size: 26px;
+  padding: 0.3em 0em 0 0.3em;
+  margin: 0;
+}
+#first {
+  width: 200px;
+  background-color: #c8fc98;
+  padding: 5px 10px;
+  box-sizing: border-box;
+  float: left;
+  margin-right: 0.5em;
+}
+footer {
+  background-color: black;
+  clear: left;
+  text-align: center;
+  line-height: 35px;
+}
+footer a {
+  color: #ffff80;
+}

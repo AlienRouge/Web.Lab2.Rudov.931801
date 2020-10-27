@@ -1,0 +1,11 @@
+html,
+body {
+  margin: 4px 0px 0px 4px;
+}
+main {
+  background-color: blue;
+  color: white;
+  width: 600px;
+  margin: auto;
+  overflow: hidden;
+}

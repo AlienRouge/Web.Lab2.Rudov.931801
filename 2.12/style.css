@@ -1,0 +1,25 @@
+body {
+  border: green solid 2px;
+}
+.top {
+  background-color: #ffe4c4;
+  width: 500px;
+  float: left;
+}
+main {
+  background-color: aqua;
+}
+.text {
+  margin-left: 505px;
+  margin-right: 5px;
+  background-color: darkgrey;
+}
+@media (max-width: 1000px) {
+  .text {
+    clear: left;
+    margin: 0;
+  }
+  .top {
+    width: 150px;
+  }
+}
